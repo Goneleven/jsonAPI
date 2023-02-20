@@ -1,0 +1,35 @@
+{
+    "girassol": {
+        "name": "Sunflower",
+        "album": "Girassol",
+        "style": "Esclareci-Menta",
+        "price": "R$ 29,99",
+        "image": "<img src='/imagens/girassol.png' width = '100px'>"
+    },
+
+    "peashooter": {
+        "name": "Disparervilha",
+        "album": "Ervilha",
+        "style": "Esclareci-Menta",
+        "price": "R$ 59,99",
+        "image": "<img src='/imagens/peashooter.png' width = '100px'>"
+    },
+
+    "wallnut": {
+        "name": "Noz-Obstáculo",
+        "album": "Noz",
+        "style": "Endureci-Menta",
+        "price": "R$ 49,99",
+        "image": "<img src='/imagens/noz.jpg' width = '100px'>"
+    },
+
+    "carnivora": {
+        "name": "Carnivora",
+        "album": "Planta Carnivora",
+        "style": "Surra-Menta",
+        "price": "R$ 99,99",
+        "image": "<img src='/imagens/carnivora.png' width = '100px'>"
+    }
+
+
+}
